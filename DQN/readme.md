@@ -16,7 +16,7 @@ python q_learn.py -m "Run"
 
 If you want to train the network from beginning, delete the saved_networks and run qlearn.py -m "Train"
 
-#class and function explaining
+# class and function explaining
 
 * class DQN: the agent
 ** function create_Q_network: creat the Q network
