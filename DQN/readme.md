@@ -19,8 +19,8 @@ If you want to train the network from beginning, delete the saved_networks and r
 # class and function explaining
 
 * class DQN: the agent
-* * function create_Q_network: creat the Q network
-* * function create_training_method: the training method
-* * function train_Q_network: trains the network
-* * function play_game: playing the game
+- function create_Q_network: creat the Q network
+- function create_training_method: the training method
+- function train_Q_network: trains the network
+- function play_game: playing the game
 
