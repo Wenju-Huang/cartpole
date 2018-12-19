@@ -1,0 +1,110 @@
+episode:  0 Evaluation Average Reward: 9.5
+episode:  100 Evaluation Average Reward: 19.5
+episode:  200 Evaluation Average Reward: 40.2
+episode:  300 Evaluation Average Reward: 79.9
+episode:  400 Evaluation Average Reward: 155.2
+episode:  500 Evaluation Average Reward: 146.1
+episode:  600 Evaluation Average Reward: 106.2
+episode:  700 Evaluation Average Reward: 160.6
+episode:  800 Evaluation Average Reward: 174.9
+episode:  900 Evaluation Average Reward: 178.0
+Model saved in file: ./model/model.ckpt
+episode:  1000 Evaluation Average Reward: 176.2
+episode:  1100 Evaluation Average Reward: 174.6
+episode:  1200 Evaluation Average Reward: 184.6
+episode:  1300 Evaluation Average Reward: 178.4
+episode:  1400 Evaluation Average Reward: 200.0
+episode:  1500 Evaluation Average Reward: 199.6
+episode:  1600 Evaluation Average Reward: 199.7
+episode:  1700 Evaluation Average Reward: 184.0
+episode:  1800 Evaluation Average Reward: 199.0
+episode:  1900 Evaluation Average Reward: 138.8
+Model saved in file: ./model/model.ckpt
+episode:  2000 Evaluation Average Reward: 159.1
+episode:  2100 Evaluation Average Reward: 167.9
+episode:  2200 Evaluation Average Reward: 200.0
+episode:  2300 Evaluation Average Reward: 198.1
+episode:  2400 Evaluation Average Reward: 200.0
+episode:  2500 Evaluation Average Reward: 200.0
+episode:  2600 Evaluation Average Reward: 170.2
+episode:  2700 Evaluation Average Reward: 200.0
+episode:  2800 Evaluation Average Reward: 198.5
+episode:  2900 Evaluation Average Reward: 200.0
+Model saved in file: ./model/model.ckpt
+episode:  3000 Evaluation Average Reward: 183.9
+episode:  3100 Evaluation Average Reward: 181.6
+episode:  3200 Evaluation Average Reward: 200.0
+episode:  3300 Evaluation Average Reward: 200.0
+episode:  3400 Evaluation Average Reward: 132.2
+episode:  3500 Evaluation Average Reward: 200.0
+episode:  3600 Evaluation Average Reward: 142.1
+episode:  3700 Evaluation Average Reward: 114.3
+episode:  3800 Evaluation Average Reward: 194.0
+episode:  3900 Evaluation Average Reward: 162.3
+Model saved in file: ./model/model.ckpt
+episode:  4000 Evaluation Average Reward: 119.8
+episode:  4100 Evaluation Average Reward: 118.4
+episode:  4200 Evaluation Average Reward: 173.1
+episode:  4300 Evaluation Average Reward: 172.7
+episode:  4400 Evaluation Average Reward: 193.7
+episode:  4500 Evaluation Average Reward: 192.7
+episode:  4600 Evaluation Average Reward: 128.7
+episode:  4700 Evaluation Average Reward: 129.7
+episode:  4800 Evaluation Average Reward: 124.6
+episode:  4900 Evaluation Average Reward: 113.5
+Model saved in file: ./model/model.ckpt
+episode:  5000 Evaluation Average Reward: 149.1
+episode:  5100 Evaluation Average Reward: 198.7
+episode:  5200 Evaluation Average Reward: 147.6
+episode:  5300 Evaluation Average Reward: 116.5
+episode:  5400 Evaluation Average Reward: 174.5
+episode:  5500 Evaluation Average Reward: 177.6
+episode:  5600 Evaluation Average Reward: 194.7
+episode:  5700 Evaluation Average Reward: 184.2
+episode:  5800 Evaluation Average Reward: 136.6
+episode:  5900 Evaluation Average Reward: 190.2
+Model saved in file: ./model/model.ckpt
+episode:  6000 Evaluation Average Reward: 140.6
+episode:  6100 Evaluation Average Reward: 169.2
+episode:  6200 Evaluation Average Reward: 174.3
+episode:  6300 Evaluation Average Reward: 127.3
+episode:  6400 Evaluation Average Reward: 105.4
+episode:  6500 Evaluation Average Reward: 116.5
+episode:  6600 Evaluation Average Reward: 113.3
+episode:  6700 Evaluation Average Reward: 112.3
+episode:  6800 Evaluation Average Reward: 110.7
+episode:  6900 Evaluation Average Reward: 113.8
+Model saved in file: ./model/model.ckpt
+episode:  7000 Evaluation Average Reward: 125.9
+episode:  7100 Evaluation Average Reward: 124.1
+episode:  7200 Evaluation Average Reward: 119.6
+episode:  7300 Evaluation Average Reward: 118.0
+episode:  7400 Evaluation Average Reward: 112.1
+episode:  7500 Evaluation Average Reward: 118.9
+episode:  7600 Evaluation Average Reward: 82.9
+episode:  7700 Evaluation Average Reward: 145.9
+episode:  7800 Evaluation Average Reward: 198.9
+episode:  7900 Evaluation Average Reward: 175.3
+Model saved in file: ./model/model.ckpt
+episode:  8000 Evaluation Average Reward: 109.5
+episode:  8100 Evaluation Average Reward: 185.5
+episode:  8200 Evaluation Average Reward: 196.7
+episode:  8300 Evaluation Average Reward: 119.4
+episode:  8400 Evaluation Average Reward: 103.5
+episode:  8500 Evaluation Average Reward: 110.5
+episode:  8600 Evaluation Average Reward: 124.0
+episode:  8700 Evaluation Average Reward: 110.9
+episode:  8800 Evaluation Average Reward: 107.9
+episode:  8900 Evaluation Average Reward: 111.5
+Model saved in file: ./model/model.ckpt
+episode:  9000 Evaluation Average Reward: 111.9
+episode:  9100 Evaluation Average Reward: 118.6
+episode:  9200 Evaluation Average Reward: 99.7
+episode:  9300 Evaluation Average Reward: 95.9
+episode:  9400 Evaluation Average Reward: 153.9
+episode:  9500 Evaluation Average Reward: 123.1
+episode:  9600 Evaluation Average Reward: 142.7
+episode:  9700 Evaluation Average Reward: 139.9
+episode:  9800 Evaluation Average Reward: 99.0
+episode:  9900 Evaluation Average Reward: 92.2
+

@@ -1,0 +1,137 @@
+[2018-01-28 19:09:27,093] Making new env: CartPole-v1
+Generation 0: optimal function value is: 79; average function value is 47.467
+current best parameter:30.94,6.38,5.63,68.45,0.09,44.02,0.33
+Generation 1: optimal function value is: 998; current best fitness is :998; average function value is 144.600
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 2: optimal function value is: 998; current best fitness is :456; average function value is 186.667
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 3: optimal function value is: 998; current best fitness is :427; average function value is 140.500
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 4: optimal function value is: 998; current best fitness is :425; average function value is 276.167
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 5: optimal function value is: 998; current best fitness is :437; average function value is 296.267
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 6: optimal function value is: 998; current best fitness is :438; average function value is 274.500
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 7: optimal function value is: 998; current best fitness is :450; average function value is 238.733
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 8: optimal function value is: 998; current best fitness is :459; average function value is 272.767
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 9: optimal function value is: 998; current best fitness is :998; average function value is 360.800
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 10: optimal function value is: 998; current best fitness is :998; average function value is 316.933
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 11: optimal function value is: 998; current best fitness is :998; average function value is 392.067
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 12: optimal function value is: 998; current best fitness is :998; average function value is 604.767
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 13: optimal function value is: 998; current best fitness is :998; average function value is 724.200
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 14: optimal function value is: 998; current best fitness is :998; average function value is 684.400
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 15: optimal function value is: 998; current best fitness is :998; average function value is 494.100
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 16: optimal function value is: 998; current best fitness is :998; average function value is 460.700
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 17: optimal function value is: 998; current best fitness is :998; average function value is 483.100
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 18: optimal function value is: 998; current best fitness is :998; average function value is 585.133
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 19: optimal function value is: 998; current best fitness is :998; average function value is 656.167
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 20: optimal function value is: 998; current best fitness is :998; average function value is 637.700
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 21: optimal function value is: 998; current best fitness is :998; average function value is 502.467
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 22: optimal function value is: 998; current best fitness is :998; average function value is 592.367
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 23: optimal function value is: 998; current best fitness is :998; average function value is 732.400
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 24: optimal function value is: 998; current best fitness is :998; average function value is 616.067
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 25: optimal function value is: 998; current best fitness is :998; average function value is 509.733
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 26: optimal function value is: 998; current best fitness is :998; average function value is 610.867
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 27: optimal function value is: 998; current best fitness is :998; average function value is 645.667
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 28: optimal function value is: 998; current best fitness is :998; average function value is 630.500
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 29: optimal function value is: 998; current best fitness is :998; average function value is 676.333
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 30: optimal function value is: 998; current best fitness is :998; average function value is 659.267
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 31: optimal function value is: 998; current best fitness is :998; average function value is 617.433
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 32: optimal function value is: 998; current best fitness is :998; average function value is 587.033
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 33: optimal function value is: 998; current best fitness is :998; average function value is 634.200
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 34: optimal function value is: 998; current best fitness is :998; average function value is 753.067
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 35: optimal function value is: 998; current best fitness is :998; average function value is 745.867
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 36: optimal function value is: 998; current best fitness is :998; average function value is 700.067
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 37: optimal function value is: 998; current best fitness is :998; average function value is 657.567
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 38: optimal function value is: 998; current best fitness is :998; average function value is 635.233
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 39: optimal function value is: 998; current best fitness is :998; average function value is 649.300
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 40: optimal function value is: 998; current best fitness is :998; average function value is 654.833
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 41: optimal function value is: 998; current best fitness is :998; average function value is 674.100
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 42: optimal function value is: 998; current best fitness is :998; average function value is 604.833
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 43: optimal function value is: 998; current best fitness is :998; average function value is 728.333
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 44: optimal function value is: 998; current best fitness is :998; average function value is 794.933
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 45: optimal function value is: 998; current best fitness is :998; average function value is 691.200
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 46: optimal function value is: 998; current best fitness is :998; average function value is 675.600
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 47: optimal function value is: 998; current best fitness is :998; average function value is 774.233
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 48: optimal function value is: 998; current best fitness is :998; average function value is 703.833
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 49: optimal function value is: 998; current best fitness is :998; average function value is 768.400
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 50: optimal function value is: 998; current best fitness is :998; average function value is 872.600
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 51: optimal function value is: 998; current best fitness is :998; average function value is 583.300
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 52: optimal function value is: 998; current best fitness is :998; average function value is 691.567
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 53: optimal function value is: 998; current best fitness is :998; average function value is 783.133
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 54: optimal function value is: 998; current best fitness is :998; average function value is 635.667
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 55: optimal function value is: 998; current best fitness is :998; average function value is 678.267
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 56: optimal function value is: 998; current best fitness is :998; average function value is 704.500
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 57: optimal function value is: 998; current best fitness is :998; average function value is 807.900
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 58: optimal function value is: 998; current best fitness is :998; average function value is 690.867
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 59: optimal function value is: 998; current best fitness is :998; average function value is 658.533
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 60: optimal function value is: 998; current best fitness is :998; average function value is 722.567
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 61: optimal function value is: 998; current best fitness is :998; average function value is 851.000
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 62: optimal function value is: 998; current best fitness is :998; average function value is 791.167
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 63: optimal function value is: 998; current best fitness is :998; average function value is 774.967
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 64: optimal function value is: 998; current best fitness is :998; average function value is 698.433
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 65: optimal function value is: 998; current best fitness is :998; average function value is 916.300
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 66: optimal function value is: 998; current best fitness is :998; average function value is 779.333
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
+Generation 67: optimal function value is: 998; current best fitness is :998; average function value is 865.933
+current best parameter:24.56,0.00,3.34,3.27,0.00,20.88,0.00
