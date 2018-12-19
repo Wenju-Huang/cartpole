@@ -1,4 +1,4 @@
-# SPO and PID method for Cartpole
+# Adaptive PID method for Cartpole
 
 # Installation Dependencies:
 
