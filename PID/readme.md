@@ -19,7 +19,7 @@ cd PID
 python Train.py
 ```
 
-#class and function explaining
+# class and function explaining
 
 * class PSO: Particle swarm optimization algorithm 
 * class PSOIndividual: Particle individual behave
